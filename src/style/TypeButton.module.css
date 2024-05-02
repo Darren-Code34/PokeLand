@@ -1,0 +1,173 @@
+.button {
+  padding: 8px 16px;
+  font-weight: 600;
+  font-size: 20px;
+  border-radius: 8px;
+  box-shadow: 5px 5px ;
+}
+
+.button:not(:last-of-type) {
+  margin-right: 10px;
+}
+
+.grass {
+  color: #58af94;
+  border: solid 2px #58af94;
+}
+
+.button:hover.grass{
+  color: #fff;
+  background-color: #58af94;
+  box-shadow: 0px 0px;
+}
+
+.fire {
+  color: #ea7571;
+  border: solid 2px #ea7571;
+}
+
+.button:hover.fire{
+  color: #fff;
+  background-color: #ea7571;
+  box-shadow: 0px 0px;
+}
+
+
+.poison {
+  color: #8f6ba2;
+  border: solid 2px #8f6ba2;
+}
+
+.button:hover.poison{
+  color: #fff;
+  background-color: #8f6ba2;
+  box-shadow: 0px 0px;
+}
+
+
+.water {
+  color: #75aef0;
+  border: solid 2px #75aef0;
+}
+
+.button:hover.water{
+  color: #fff;
+  background-color: #75aef0;
+  box-shadow: 0px 0px;
+}
+
+.bug {
+  color: #a7bd1c;
+  border: solid 2px #a7bd1c;
+}
+
+.button:hover.bug{
+  color: #fff;
+  background-color: #a7bd1c;
+  box-shadow: 0px 0px;
+}
+
+.normal {
+  color: #bfbfbf;
+  border: solid 2px #bfbfbf;
+}
+
+.button:hover.normal{
+  color: #fff;
+  background-color: #bfbfbf;
+  box-shadow: 0px 0px;
+}
+
+.electric {
+  color: #f7cd5c;
+  border: solid 2px #f7cd5c;
+}
+
+.button:hover.electric{
+  color: #fff;
+  background-color: #f7cd5c;
+  box-shadow: 0px 0px;
+}
+
+.ground {
+  color: #b98981;
+  border: solid 2px #b98981;
+}
+
+.button:hover.ground{
+  color: #fff;
+  background-color: #b98981;
+  box-shadow: 0px 0px;
+}
+
+.fairy {
+  color: #f68fb9;
+  border: solid 2px #f68fb9;
+}
+
+.button:hover.fairy{
+  color: #fff;
+  background-color: #f68fb9;
+  box-shadow: 0px 0px;
+}
+
+.fighting {
+  color: #dc6661;
+  border: solid 2px #dc6661;
+}
+.button:hover.fighting{
+  color: #fff;
+  background-color: #dc6661;
+  box-shadow: 0px 0px;
+}
+
+.psychic {
+  color: #df608b;
+  border: solid 2px #df608b;
+}
+.button:hover.psychic{
+  color: #fff;
+  background-color: #df608b;
+  box-shadow: 0px 0px;
+}
+
+.rock {
+  color: #a9756f;
+  border: solid 2px #a9756f;
+}
+.button:hover.rock{
+  color: #fff;
+  background-color: #a9756f;
+  box-shadow: 0px 0px;
+}
+
+.ice {
+  color: #95c8f9;
+  border: solid 2px #95c8f9;
+}
+.button:hover.ice{
+  color: #fff;
+  background-color: #95c8f9;
+  box-shadow: 0px 0px;
+}
+
+.ghost {
+  color: #765488;
+  border: solid 2px #765488;
+}
+.button:hover.ghost{
+  color: #fff;
+  background-color: #765488;
+  box-shadow: 0px 0px;
+}
+
+.dragon {
+  color: #3a61db;
+  border: solid 2px #3a61db;
+}
+
+.button:hover.dragon{
+  color: #fff;
+  background-color: #3a61db;
+  box-shadow: 0px 0px;
+}

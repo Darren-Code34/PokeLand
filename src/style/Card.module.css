@@ -1,0 +1,112 @@
+
+.card{
+  width: 320px;
+  height: fit-content;
+  padding: 15px 20px 20px 20px;
+  border-radius: 28px;
+  color: aliceblue;
+  text-align: center;
+}
+
+.grass{
+background-color: #58af94;
+}
+
+.fire{
+  background-color: #ea7571;
+}
+
+.poison{
+  background-color: #8f6ba2;
+}
+
+.water{
+  background-color: #75aef0;
+}
+
+.bug{
+  background-color: #a7bd1c;
+}
+
+.normal{
+  background-color: #bfbfbf;
+}
+
+.electric{
+  background-color: #f7cd5c;
+}
+
+.ground{
+  background-color: #b98981;
+}
+
+.fairy{
+  background-color: #f68fb9;
+}
+
+.fighting{
+  background-color: #dc6661;
+}
+.psychic{
+  background-color: #df608b;
+}
+.rock{
+  background-color: #a9756f;
+}
+.ice{
+  background-color: #95c8f9;
+}
+.ghost{
+  background-color: #765488;
+}
+.dragon{
+  background-color: #3a61db;
+}
+
+
+.card img{
+  width: 150px;
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 6px;
+  transition: transform .2s;
+}
+
+.card:hover img{
+  transform : scale(1.1);
+}
+
+.id{
+  color: #6d6d6d;
+  font-size: 18px;
+  font-weight: bold;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: 0;
+  transition: transform .2s;
+}
+
+.card:hover .id{
+color: #fff;
+transform: scale(1.3);
+font-style: italic;
+}
+
+.name{
+    font-size: 28px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.type{
+  padding: 5px 13px;
+  border-radius: 12px;
+  width: fit-content;
+  font-weight: 600;
+  font-size: 15px;
+  color: #fff;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(255, 255, 255, 0.4);
+}
